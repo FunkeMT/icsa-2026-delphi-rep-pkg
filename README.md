@@ -21,5 +21,5 @@ This is the root directory of the repository. The directory is structured as fol
     |       |--- Delphi_Phase1-example.pdf                    # Example excerpt from the first-round questionnaire and analysis
     |
     |--- 01_delphi/
-            |--- Delphi_Panel-Nomination-Worksheet_KRNW.xlsx  # Template used to nominate and document expert panel candidates
-            |--- Delphi_ALL_Phases-1-2-3.xlsx                 # Combined dataset with responses and analysis across all Delphi rounds
+            |--- Delphi_Panel-Nomination-Worksheet_KRNW.xlsx  # Knowledge Resource Nomination Worksheet (KRNW) used to nominate and document expert panel candidates
+            |--- Delphi_ALL_Phases-1-2-3.xlsx                 # Complete and combined dataset with responses and analysis across all Delphi rounds and questionnaires (1,2,3)
